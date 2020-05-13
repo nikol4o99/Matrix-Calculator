@@ -3,7 +3,7 @@
 
 //Welcome to spaghetti world
 
-void sumWithNum(int n,int m,int mt[n][m],int num)// Този метод събира матрица с число
+void sumWithNum(int n,int m,int mt[n][m],int num)// Г’Г®Г§ГЁ Г¬ГҐГІГ®Г¤ Г±ГєГЎГЁГ°Г  Г¬Г ГІГ°ГЁГ¶Г  Г± Г·ГЁГ±Г«Г®
 {
 
     for(int i=0; i<n; i++)
@@ -16,7 +16,7 @@ void sumWithNum(int n,int m,int mt[n][m],int num)// Този метод събира матрица с 
     }
 
 }
-void subWithNum(int n,int m,int mt[n][m],int num)// Този метод изважда число от матрица
+void subWithNum(int n,int m,int mt[n][m],int num)// Г’Г®Г§ГЁ Г¬ГҐГІГ®Г¤ ГЁГ§ГўГ Г¦Г¤Г  Г·ГЁГ±Г«Г® Г®ГІ Г¬Г ГІГ°ГЁГ¶Г 
 {
 
     for(int i=0; i<n; i++)
@@ -29,7 +29,7 @@ void subWithNum(int n,int m,int mt[n][m],int num)// Този метод изважда число от 
     }
 
 }
-void mulWithNum(int n, int m,int mt[n][m],int num)// Тои метод умножава
+void mulWithNum(int n, int m,int mt[n][m],int num)// Г’Г®ГЁ Г¬ГҐГІГ®Г¤ ГіГ¬Г­Г®Г¦Г ГўГ 
 {
 
     for(int i=0; i<n; i++)
